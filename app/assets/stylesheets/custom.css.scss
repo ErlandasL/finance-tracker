@@ -11,3 +11,29 @@
   transition: 0.3s;
   border-radius: 5px;
 }
+
+.search-area {
+  padding-top: 15px;
+}
+
+.no-left-padding {
+  padding-left: 0 !important;
+}
+
+.no-right-padding {
+  padding-right: 0 !important;
+}
+
+.results-block {
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.logout-button {
+  margin-right: 5px;
+}
+
+.user-name {
+  margin-top: 3.5%;
+  padding-right: 5px;
+}
