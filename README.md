@@ -1,3 +1,5 @@
+App is running on heroku: https://finance-trackerr-6.herokuapp.com/
+
 # README
 
 This README would normally document whatever steps are necessary to get the
